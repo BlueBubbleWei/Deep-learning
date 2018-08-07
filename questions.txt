@@ -1,0 +1,3 @@
+手写体尝试  报错  tf.equal(tf.argmax(fc2,1),tf.argmax(y_,1))   必须位置固定？
+
+jupyter  bug问题，find 一个值明明有两个却显示有三个，第一个值会查找两遍
